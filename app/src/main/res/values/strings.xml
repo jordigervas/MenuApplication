@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MenuApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_like">Like</string>
+
+    <string name="pref_user_key" translatable="false">user</string>
+    <string name="pref_user_label" translatable="true">User</string>
+    <string name="pref_user_default" translatable="false">admin</string>
+
+    <string name="pref_category">My Settings</string>
+
+    <string name="pref_check_key" translatable="false">notif</string>
+    <string name="pref_check_label" translatable="false">Notifications</string>
+    <string name="pref_check_text" translatable="false">Enable notifications</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
